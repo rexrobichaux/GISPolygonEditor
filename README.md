@@ -39,4 +39,4 @@ Compass / North Widget
 Lat / Lon coordinate, scale and zoom level widget.
 
 URL parameters for X / Y location zooming upon open via URLSearchParams using the coords parameter:
-Example: (C:/Users/<username>/Desktop/PolyGISEditor.html?coords=-77.696,37.537&zoomLevel=13)
+Example: (C:/Users/username/Desktop/PolyGISEditor.html?coords=-77.696,37.537&zoomLevel=13)
