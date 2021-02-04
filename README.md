@@ -13,7 +13,7 @@ Can be deployed to web server for application hosting.
 
 # Data
 
-The sample script within the file uses Virginia DEQ regions as reference layers, and a sample 
+The sample script within the file uses Virginia DEQ regions as a reference layer, and a sample editable
 Esri wildfire boundary polygon feature service as a spatial editing layer. This editor can
 easily handle point or line geometry editing as well as polygons. Just update the data sources, 
 and fields as required for your editable feature services / layers. 
